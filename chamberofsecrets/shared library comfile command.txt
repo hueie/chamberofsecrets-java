@@ -1,4 +1,4 @@
-cd C:\Users\Kait\git\opencv-java\chamberofsecrets\src
+c
 dir
 cham~_HelloJNI.h
 hello.dll
