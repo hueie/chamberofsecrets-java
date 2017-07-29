@@ -102,4 +102,5 @@ JNIEXPORT void JNICALL Java_chamberofsecrets_HelloJNI_sayHello(JNIEnv * env, job
 	delete tmp_points;
 	outputFile.close();
 	cap.release();
+	cout << "Finish Working For Sorting Hat!!!" << endl;
 }
